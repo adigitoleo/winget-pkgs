@@ -1,0 +1,30 @@
+# Created with YamlCreate.ps1 v2.2.1 $debug=MDSU.CRLF.7-3-1.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: DominikPicheta.choosenim
+PackageVersion: 0.8.4
+PackageLocale: en-US
+Publisher: Dominik Picheta
+# PublisherUrl:
+# PublisherSupportUrl:
+# PrivacyUrl:
+Author: Dominik Picheta
+PackageName: choosenim
+PackageUrl: https://github.com/dom96/choosenim
+License: MIT
+# LicenseUrl:
+Copyright: Copyright (c) 2017, Dominik Picheta
+# CopyrightUrl:
+ShortDescription: The Nim toolchain installer
+# Description:
+Moniker: choosenim
+Tags:
+- nim
+# Agreements:
+# ReleaseNotes:
+ReleaseNotesUrl: https://github.com/dom96/choosenim/releases/tag/v0.8.4
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0

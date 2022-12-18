@@ -1,0 +1,14 @@
+# Created with YamlCreate.ps1 v2.2.1 $debug=MDSU.CRLF.7-3-1.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
+
+PackageIdentifier: DominikPicheta.choosenim
+PackageVersion: 0.8.4
+InstallerType: portable
+Commands:
+- choosenim
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/dom96/choosenim/releases/download/v0.8.4/choosenim-0.8.4_windows_amd64.exe
+  InstallerSha256: CCA55BF01997A9F6C5C0556E2FA2EE4BC550C7058CBCE4370518E17CF05C66B8
+ManifestType: installer
+ManifestVersion: 1.2.0
